@@ -16,7 +16,7 @@ A Django REST Framework-based backend project with:
 ## Setup Instructions
 
 ```bash
-git clone https://github.com/yourname/django_task_bot.git
+git clone https://github.com/Nani939/django_task_bot.git
 cd django_task_bot
 cp .env.example .env
 pip install -r requirements.txt
